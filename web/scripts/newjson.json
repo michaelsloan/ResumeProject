@@ -1,0 +1,105 @@
+{
+    "examID" : "5247823",
+    "dateOfVisit" : "01/22/2014",
+    "firstName" : "Jeff",
+    "lastName" : "Goldberg",
+    "complaints" : "Chest and head pain",
+    "notes" : "Keep an eye on chest and head pain",
+    "diagnosisList" : 
+     [
+       {
+           "diagnosisID" : "21448",
+           "diagnosisName" : "Common Cold"
+       },
+       
+       {
+           "diagnosisID" : "83743",
+           "diagnosisName" : "Influenza"
+       },
+       
+       {
+           "diagnosisID" : "24827",
+           "diagnosisName" : "Pneumonia"
+       },
+       
+       {
+           "diagnosisID" : "98746",
+           "diagnosisName" : "Ebola Virus"
+       },
+       
+       {
+           "diagnosisID" : "32798",
+           "diagnosisName" : "Mumps"
+       }   
+       
+     ],
+     
+     "symptomList" : 
+     [
+        {
+            "symptomID" : "28371",
+            "symptomName" : "Cough"
+        },
+        
+        {
+            "symptomID" : "64352",
+            "symptomName" : "Pale complexion"
+        },
+         
+        {
+            "symptomID" : "87345",
+            "symptomName" : "Sneezing"
+        },
+        
+        {
+            "symptomID" : "42356",
+            "symptomName" : "Swelling of tonsils"
+        },
+        
+        {
+            "symptomID" : "98401",
+            "symptomName" : "Rash"
+        }
+     ],
+     
+     "prescriptionList" :
+     [
+        {
+            "prescriptionID" : "536121",
+            "firstName" : "Tom",
+            "lastName" : "Jones",
+            "medicationsList":
+            [
+                {
+                    "medicationID" : "264265",
+                    "medicationName" : "Advil"
+                },
+                
+                {
+                    "medicationID" : "128342",
+                    "medicationName" : "Robitussin"
+                }
+            ]
+        },
+        
+        {
+            "prescriptionID" : "623793",
+            "firstName" : "John",
+            "lastName" : "Smith",
+            "medicationsList":
+            [
+                {
+                    "medicationID" : "386724",
+                    "medicationName" : "Mucinex"
+                },
+                
+                {
+                    "medicationID" : "783452",
+                    "medicationName" : "Aleve"
+                }
+                
+            ]        
+            
+        }
+     ]        
+}
